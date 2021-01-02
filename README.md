@@ -40,9 +40,9 @@
 我使用的tonymacx86论坛中  [@mattystonnie优化方案](https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/  "悬停显示文字")
   
 @mattystonnie推荐使用  
-SSDT-RX Vega 64-Version 2.3.aml+DAGPM.kext使用但我个人实际使用中  会出现风扇跳动加速的情况。      
-SSDT-RX Vega 64-Version 2.3.aml+RadeonVega56AirCoolingFansFix.kext  
+SSDT-RX Vega 64-Version 2.3.aml+DAGPM.kext使用但我个人实际使用中  会出现风扇跳动加速的情况。   
 帖子中有一个网友使用这样搭配我测试使用完全正常。  
+SSDT-RX Vega 64-Version 2.3.aml+RadeonVega56AirCoolingFansFix.kext  
 EFI中默认配置的是RadeonVega56AirCoolingFansFix.kext，DAGMP.kext也放在项目中大家自行测试使用。  
 
 
