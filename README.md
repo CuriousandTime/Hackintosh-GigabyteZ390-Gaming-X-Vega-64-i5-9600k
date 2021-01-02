@@ -18,22 +18,25 @@
 ### 0.6.5  
 ***
   
-    
-      
+  
+  
 ## 功能完善情况：
 
 |睡眠唤醒     | 蓝牙      |有线网卡    |无线网卡       |   USB  |电源      |核显加速      |CPU变频     |
 | ----------|  ---------- |  ---------- | ---------  |  ---------- | ---------  | ---------- | ---------- |
 |正常    | 正常       |正常     |正常        |   正常   |正常       |正常       |未测试       |
   
-    
+  
+***
       
 ## Vega 64显卡优化：  
 我使用的tonymacx86论坛中  [@mattystonnie优化方案](https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/  "悬停显示文字")
-
-@mattystonnie推荐使用SSDT-RX Vega 64-Version 2.3.aml搭配DAGPM.kext使用，  
-但我个人实际使用中  会出现风扇跳动加速的情况，  
-所以我使用了SSDT-RX Vega 64-Version 2.3.aml+RadeonVega56AirCoolingFansFix.kext使用，现在所有情况正常，  
+  
+@mattystonnie推荐使用  
+SSDT-RX Vega 64-Version 2.3.aml+DAGPM.kext使用，  
+但我个人实际使用中  会出现风扇跳动加速的情况，    
+SSDT-RX Vega 64-Version 2.3.aml+RadeonVega56AirCoolingFansFix.kext  
+使用，现在所有情况正常，  
 所以EFI中默认配置的是RadeonVega56AirCoolingFansFix.kext，大家自行测试使用。  
 
 
