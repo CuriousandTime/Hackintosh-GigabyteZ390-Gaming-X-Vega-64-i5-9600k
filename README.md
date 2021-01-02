@@ -8,3 +8,7 @@
 <img width="1134" alt="核显" src="https://user-images.githubusercontent.com/15880196/103450225-16993980-4cee-11eb-8ad0-4b7a5c2cb6eb.png">
 
 <img width="1134" alt="节能" src="https://user-images.githubusercontent.com/15880196/103450228-1f8a0b00-4cee-11eb-9095-f0f26f3c791d.png">
+
+<img width="1134" alt="默认配置OpenCore0 6 5" src="https://user-images.githubusercontent.com/15880196/103450311-9ecc0e80-4cef-11eb-948c-da15514b399e.png">
+
+<img width="1134" alt="安装最新自编译驱动" src="https://user-images.githubusercontent.com/15880196/103450313-a390c280-4cef-11eb-9c1c-2b6b873e2626.png">
