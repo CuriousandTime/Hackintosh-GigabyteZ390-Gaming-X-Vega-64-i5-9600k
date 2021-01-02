@@ -11,8 +11,14 @@
 
 <img width="1134" alt="默认配置OpenCore0 6 5" src="https://user-images.githubusercontent.com/15880196/103450311-9ecc0e80-4cef-11eb-948c-da15514b399e.png">
 
-<img width="1134" alt="安装最新自编译驱动" src="https://user-images.githubusercontent.com/15880196/103450313-a390c280-4cef-11eb-9c1c-2b6b873e2626.png">
-
+<img width="1134" alt="安装最新自编译驱动" src="https://user-images.githubusercontent.com/15880196/103450313-a390c280-4cef-11eb-9c1c-2b6b873e2626.png">  
+  
+    
+      
+## macOS版本：  
+### macOS Big Sur  
+#### 11.2 Beta版(20D5029f)
+***
 
 ## OenCore版本：  
 ### 0.6.5  
