@@ -32,7 +32,7 @@ EFI中默认配置的是RadeonVega56AirCoolingFansFix.kext，DAGMP.kext也放在
 
 ## 功能截图：  
 
-<img width="1134" alt="关于本机" src="https://user-images.githubusercontent.com/15880196/103450221-05e8c380-4cee-11eb-9c74-4cd85cc5ae1d.png">  
+<img width="1134" alt="关于本机" src="https://user-images.githubusercontent.com/15880196/103452285-8fa58a80-4d08-11eb-9ee5-fdbe2e49ff6a.png">  
 
 <img width="1134" alt="网卡蓝牙WIFI" src="https://user-images.githubusercontent.com/15880196/103450218-f9646b00-4ced-11eb-9d19-4e71f3744f69.png">  
 
