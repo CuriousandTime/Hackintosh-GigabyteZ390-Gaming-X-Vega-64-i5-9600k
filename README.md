@@ -14,10 +14,10 @@
 <img width="1134" alt="安装最新自编译驱动" src="https://user-images.githubusercontent.com/15880196/103450313-a390c280-4cef-11eb-9c1c-2b6b873e2626.png">
 
 
-##OenCore版本：  
+## OenCore版本：  
 0.6.5  
   
-##功能完善情况：  
+## 功能完善情况：  
 睡眠唤醒：正常  
 蓝牙：正常  
 WiFi：正常  
@@ -27,7 +27,7 @@ USB：因为我使用了USB改线，所以我的定制不适合大家「EFI中�
 核显加速：正常  
 变频：不是超频玩家没有配置  
 
-##Vega 64显卡优化：  
+## Vega 64显卡优化：  
 我使用的tonymacx86论坛中@mattystonnie优化方案  
 https://www.tonymacx86.com/threads/amd-radeon-performance-enhanced-ssdt.296555/  
 @mattystonnie推荐使用SSDT-RX Vega 64-Version 2.3.aml搭配DAGPM.kext使用，但我个人实际使用中  
