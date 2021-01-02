@@ -16,12 +16,12 @@
     
       
 ## macOS版本：  
-### macOS Big Sur  
-#### 11.2 Beta版(20D5029f)
+**macOS Big Sur**  
+**11.2 Beta版(20D5029f)**
 ***
 
 ## OenCore版本：  
-### 0.6.5  
+**0.6.5  
 ***
   
   
